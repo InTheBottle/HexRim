@@ -10,7 +10,8 @@
 - [2.4.0](#bottlerim-et-ada-240---not-save-safe)
 - [2.4.1](#bottlerim-et-ada-241---save-safe)
 - [2.4.2](#bottlerim-et-ada-242---save-safe)
-- [2.5.0](#bottlerim-et-ada-240---not-save-safe)
+- [2.5.0](#bottlerim-et-ada-250---not-save-safe)
+- [2.6.0](#bottlerim-et-ada-260---not-save-safe)
 
 ## BottleRim Et' Ada 1.0.0 - Not Save Safe
 - Not even joking when I say 1000s of fixes, deleted references, base game navmesh being broken, xEdit conflict fixes
@@ -2011,3 +2012,29 @@ Certain mod updates and fixes will not allow this update to work on existing sav
 - Updated to the newest version of the simonrim beta
 - Due to me nuking a bunch of old busted script fixes, this will not be save safe. Sorry.
 - Fixed some issues in the community shaders build.
+
+## BottleRim Et' Ada 2.6.0 - Not Save Safe
+
+- Completely ripped out Skypatcher.
+- Game launch time is not 17ish seconds to the main menu, pretty cool.
+- Completely redone leveled lists by hand due to removing skypatcher distribution
+- You should see a lot of new and more coherent loadouts on bandits, guards and shop inventory
+- Community Shaders build has been improved and rebranded
+- Added a ton of Quests award perk point patches
+- Mod updates, includes fixes and improvements for several framework mods
+- Added my Seasonal Clothing Framework with custom presets for rain and snow weathers
+- Updated Tamrielic distribution
+- Added Emittance removal project
+- Added Window emittance consistency
+- Fixed improved closedface helmets
+- Removed Rogues and Raiders and added Lawless and Madmen. Forsworn and bandit encounters can be really challenging now.
+- Added more Mathy PBR mesh overhauls
+- Added whips and SIGMA animations for them
+- Fixed tons of issues thanks to a few very helpful people that report and test. Thank you all for the help.
+- Added a new quest\faction, Temples and talismans. Check out the temple in solitude.
+- Stress and Fear shows in the character menu now
+- New active effect icons
+- Improved widescreen support somewhat
+- Added equip behavior fixes
+- Vanargand sword locomotion added
+- Rain Splashes SKSE was added
