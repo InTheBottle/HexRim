@@ -12,6 +12,7 @@
 - [2.4.2](#bottlerim-et-ada-242---save-safe)
 - [2.5.0](#bottlerim-et-ada-250---not-save-safe)
 - [2.6.0](#bottlerim-et-ada-260---not-save-safe)
+- [2.7.0](#bottlerim-et-ada-260---not-save-safe)
 
 ## BottleRim Et' Ada 1.0.0 - Not Save Safe
 - Not even joking when I say 1000s of fixes, deleted references, base game navmesh being broken, xEdit conflict fixes
@@ -2038,3 +2039,54 @@ Certain mod updates and fixes will not allow this update to work on existing sav
 - Added equip behavior fixes
 - Vanargand sword locomotion added
 - Rain Splashes SKSE was added
+
+## BottleRim Et' Ada 2.7.0 - Not Save Safe
+
+- Added Sons of Skyrim
+- Added New Legion
+- More creation club armor PBR
+- Added COTN for Dawnstar and Morthal
+- Added Dominion, new elven armors and weapons
+- Swapped fully to Nordic UI
+- Added Auridon, more elven armors\weapons
+- Fully swapped to a more balanced dragon combat set up
+- Swapped to Enhanced Vanilla PBR trees
+- Added Fur Shader armors
+- More distribution for modded armors
+- Added Pinepeak Crypt, improved dungeon and quest mod
+- New overhaul for Dragonsreach
+- Riverwood has walls, for more environmental immersion
+- Added Roleplaying in skyrim - Evolving Economy
+- Fully updated to latest simonrim suite
+- Drastically improved audio, voices, music etc.
+- New nordic ruin textures
+- Added the new gentleman SFW edition
+- Added CBBE nevernude for females
+- Reverie skin for females
+- Skysight\true faces for men
+- Added unarmed behaviors expanded
+- Swapped to water for ENB
+- Swapped to Freaks meadows grass mod
+- Community shaders handled grass "lod" and distance for better performance
+- Removed alchemy of time and food spoilage (buggy)
+- Removed the four angi's camp overhauls that I still had for some reason(???)
+- Removed a lot of clofas audio mods in favor of just AOS. more consistent
+- Removed city trees, bad performance
+- Removed EFPS, works when it wants too and not worth patching
+- Removed dawnguard tweaks and enhancements, cool mod but was difficult to work around
+- Swapped dovajump for jump behavior overhaul
+- Removed Natural waterfalls in favor of water for enb waterfalls
+- Removed the random names obscure and distributor, bloat and just not needed
+- Removed better quest objectives, they were not always better and sometimes just straight up caused issues
+- Removed a couple Evolving Location series mods in favor of SRC changes
+- Removed children of the northwind, buggy and just not really the look i want
+- Removed lawbringer, buggy and SRC is just better I would prefer not to have both just for consistency
+- Removed a few very goofy armor mod packs
+- Removed picta sky meshes, more issues than it solved
+- Player name randomizer is removed, had a weird incompatibility with some mod I use. Genuinely forgot which (sorry)
+- Removed shouting provokes dragons, cool idea but very annoying after a while
+- Tactical nuke of all spaghetti location overhauls
+- Trade and barter was replaced
+- Why I came to skyrim was removed, cool mod but didn't feel right
+- Nuked woodcutting tweaks
+- Tons of very custom community shader addons made by me
