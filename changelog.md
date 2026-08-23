@@ -12,7 +12,7 @@
 - [2.4.2](#bottlerim-et-ada-242---save-safe)
 - [2.5.0](#bottlerim-et-ada-250---not-save-safe)
 - [2.6.0](#bottlerim-et-ada-260---not-save-safe)
-- [2.7.0](#bottlerim-et-ada-260---not-save-safe)
+- [2.7.0](#bottlerim-et-ada-270---not-save-safe)
 
 ## BottleRim Et' Ada 1.0.0 - Not Save Safe
 - Not even joking when I say 1000s of fixes, deleted references, base game navmesh being broken, xEdit conflict fixes
