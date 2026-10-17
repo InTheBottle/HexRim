@@ -56,7 +56,7 @@ These are some of the bigger pieces. It's 1100+ mods, so this is nowhere near ev
 A lot of this list is my own work, either mods I wrote or fixes for mods that were holding the list back.
 
 - **Bottled Shaders**: my own Community Shaders build with a ton of custom additions. It's a big part of why HexRim looks the way it does.
-- **Paths of Empyrean DLL**: I've been working on the NG version so one DLL runs on every version of the game (SE, AE and VR). I fixed the infinite loading some people got on startup and built in things that used to need separate mods:
+- **Paths of Empyrean DLL**: I've been working on the NG version so one DLL runs on every version of the game (SE, AE and VR). I built in things that used to need separate mods:
   - Blood Ritual health casting is built in, so Dynamic Magic Modification Framework isn't needed anymore.
   - Arrow and bolt hit locations for Pinpoint Precision, Phalanx and Deflect Arrows are built in, so Archery Locational Damage isn't needed either.
   - Trial and Error remembers your lockpick angle when a pick breaks.
