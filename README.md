@@ -3,11 +3,11 @@ Skyrim, rebuilt with deeper systems and mechanics. Same game you know, just a wh
 
 ![HexRim](Resources/HexRim.png)
 
-**Links**: [Changelog](changelog.md) | [Discord](https://discord.gg/WYjj6EvdJ)
+**Links**: [Changelog](changelog.md) | [Discord](https://discord.gg/bottled)
 
 ---
 
-**Support**: Come join the [HexRim Discord](https://discord.gg/WYjj6EvdJ). That's where I hang out and it's the fastest way to get help.
+**Support**: Come join the [HexRim Discord](https://discord.gg/bottled). That's where I hang out and it's the fastest way to get help.
 
 **Requirements**:
 - Skyrim version 1.6.1170 (latest Steam update).
@@ -155,7 +155,7 @@ There are a couple of mods in the MCM you should check out to set things up how 
 
 - **Post-Installation Issues**:
   - Form 43/DLL errors? Reinstall with "Overwrite Installation" checked in Wabbajack.
-  - Crashing on startup? Reinstall, or come ask for help in the [Discord](https://discord.gg/WYjj6EvdJ) with your crash logs.
+  - Crashing on startup? Reinstall, or come ask for help in the [Discord](https://discord.gg/bottled) with your crash logs.
 
 ---
 
