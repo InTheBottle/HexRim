@@ -63,7 +63,7 @@ HexRim is a big, heavy list. Give this a look before you commit to a 154 GB down
 - Plan on roughly 250 GB of free SSD space for the install and the downloads together. Keep the downloads folder around after installing, Wabbajack only grabs what changed when you update.
 
 **Performance**:
-Community Shaders, PBR on just about everything, Lux lighting and a ton of scripted systems all add up. I build and test HexRim on an i5-13600KF, an RTX 4070 (12 GB) and 32 GB of RAM.
+Bottled Shaders, PBR on just about everything, Lux lighting and a ton of scripted systems all add up. I build and test HexRim on an i5-13600KF, an RTX 4070 (12 GB) and 32 GB of RAM.
 
 | | Minimum | Recommended |
 |---|---|---|
@@ -73,7 +73,7 @@ Community Shaders, PBR on just about everything, Lux lighting and a ton of scrip
 | **Storage** | SSD | NVMe SSD |
 
 - The minimum gets you 1080p with some settings turned down. 1440p wants the recommended setup, and 4K wants 16 GB of VRAM or more.
-- Struggling for frames? Open the Community Shaders menu with **Page Up** and turn down the heavier effects first.
+- Struggling for frames? Open the Bottled Shaders menu with **Page Up** and turn down the heavier effects first.
 - Do the pagefile step in [Pre-Installation](#pre-installation) no matter what your specs are.
 
 ---
@@ -132,7 +132,7 @@ A lot of this list is my own work, either mods I wrote or fixes for mods that we
 ## Post-Installation
 A couple of things worth knowing before you jump in.
 
-1. The Community Shaders menu opens with **Page Up**.
+1. The Bottled Shaders menu opens with **Page Up**.
 2. CS Lights is in the Lighting separator. If you want different options than what I picked, just reinstall it however you like.
 3. On an ultrawide? Check the UltraWide separator in MO2.
 
