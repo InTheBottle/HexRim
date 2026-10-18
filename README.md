@@ -12,12 +12,14 @@ Skyrim, rebuilt with deeper systems and mechanics. Same game you know, just a wh
 **Requirements**:
 - Skyrim version 1.6.1170 (latest Steam update).
 - Skyrim AE with all of the Anniversary Edition content (the paid Creation Club stuff).
+- Around 250 GB of free SSD space and a PC that can handle it, see [Size and Performance](#size-and-performance).
 
 ---
 
 ## Contents
 - [Introduction](#introduction)
 - [What's in the List](#whats-in-the-list)
+- [Size and Performance](#size-and-performance)
 - [Stuff I Made for HexRim](#stuff-i-made-for-hexrim)
 - [Installation](#installation)
 - [Post-Installation](#post-installation)
@@ -33,7 +35,7 @@ Skyrim, rebuilt with deeper systems and mechanics. Same game you know, just a wh
 ## Introduction
 HexRim is what BottleRim (Et' Ada) turned into. I wanted a true Skyrim remaster, not a pile of new content stapled on top of the game. Everything you know is still here, it's just been rebuilt with deeper systems and mechanics so it plays like the remaster we never got.
 
-If you're coming from BottleRim, the biggest change is that SimonRim is gone. The list now runs on Paths of Empyrean for perks and magic, with Blade and Blunt and Deflection handling combat. I've been working on the Paths of Empyrean DLL myself, so a lot of stuff that used to need extra mods is just built in now (more on that below).
+If you're coming from BottleRim, the biggest change is that SimonRim is gone. The list now runs on Paths of Empyrean for perks and magic, with Blade and Blunt and Deflection handling combat.
 
 Licensed under [CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/).
 
@@ -52,14 +54,34 @@ These are some of the bigger pieces. It's 1100+ mods, so this is nowhere near ev
 
 ---
 
+## Size and Performance
+HexRim is a big, heavy list. Give this a look before you commit to a 154 GB download.
+
+**List size**:
+- 1,159 mods and 1,157 plugins (139 full plugins and 1,018 light plugins).
+- About 92 GB installed and about 154 GB of downloads.
+- Plan on roughly 250 GB of free SSD space for the install and the downloads together. Keep the downloads folder around after installing, Wabbajack only grabs what changed when you update.
+
+**Performance**:
+Community Shaders, PBR on just about everything, Lux lighting and a ton of scripted systems all add up. I build and test HexRim on an i5-13600KF, an RTX 4070 (12 GB) and 32 GB of RAM.
+
+| | Minimum | Recommended |
+|---|---|---|
+| **GPU** | 8 GB of VRAM (RTX 3060 Ti / RX 6650 XT) | 12 GB or more of VRAM (RTX 4070 / RX 7800 XT or better) |
+| **CPU** | 6 cores (Ryzen 5 5600 / i5-12400) | Ryzen 7 7700 / i5-13600K or better |
+| **RAM** | 16 GB | 32 GB |
+| **Storage** | SSD | NVMe SSD |
+
+- The minimum gets you 1080p with some settings turned down. 1440p wants the recommended setup, and 4K wants 16 GB of VRAM or more.
+- Struggling for frames? Open the Community Shaders menu with **Page Up** and turn down the heavier effects first.
+- Do the pagefile step in [Pre-Installation](#pre-installation) no matter what your specs are.
+
+---
+
 ## Stuff I Made for HexRim
 A lot of this list is my own work, either mods I wrote or fixes for mods that were holding the list back.
 
 - **Bottled Shaders**: my own Community Shaders build with a ton of custom additions. It's a big part of why HexRim looks the way it does.
-- **Paths of Empyrean DLL**: I've been working on the NG version so one DLL runs on every version of the game (SE, AE and VR). I built in things that used to need separate mods:
-  - Blood Ritual health casting is built in, so Dynamic Magic Modification Framework isn't needed anymore.
-  - Arrow and bolt hit locations for Pinpoint Precision, Phalanx and Deflect Arrows are built in, so Archery Locational Damage isn't needed either.
-  - Trial and Error remembers your lockpick angle when a pick breaks.
 - **Common Clothes and Armor SMP**: physics for the clothes and armor from Common Clothes and Armors.
 - **Shadow Scene Node Crash Fix**: fixes a set of crashes when loading cells with certain lights.
 - **More of my SKSE fixes in the list**: Rain Splashes SKSE, Interior DALC Fix, GC Bug Fix, LOD Refresh Bug Fix, First Person FOV and Tween Menu Fix, ISL Helper SKSE and CS Lights. I also brought PAPER and Steelfeathers' Papyrus Extensions up to NG so they work across game versions.
